@@ -1,0 +1,15 @@
+/home/devsec/verademo/src/main/java/com/veracode/verademo/commands/ListenCommand.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/utils/Constants.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/controller/UserController.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/model/Comment.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/controller/BlabController.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/model/Blabber.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/commands/IgnoreCommand.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/controller/ResetController.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/commands/BlabberCommand.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/utils/UserFactory.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/commands/RemoveAccountCommand.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/controller/xmlfilter.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/model/Blab.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/utils/User.java
+/home/devsec/verademo/src/main/java/com/veracode/verademo/controller/ToolsController.java
